@@ -1,6 +1,6 @@
 # Grease & Brine
 
-Grease & Brine builds and studies software across systems programming, machine learning, and computational modeling. The work ranges from reusable C++ libraries to focused implementations and research experiments.
+Building and researching software across systems programming, machine learning, and computational modeling. The work ranges from reusable C++ libraries to focused implementations and research experiments.
 
 ## Areas of work
 
